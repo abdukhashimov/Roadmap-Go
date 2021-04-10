@@ -9,5 +9,6 @@ func main() {
 	// var sum = x + y
 	// fmt.Println(sum)
 	// types()
+	// operators6 - nimaga ishlatgansiz buni?
 	operators6()
 }
